@@ -406,6 +406,14 @@ WINFO seeks to create a community of women leaders in technology within the unde
 
 ### Ontario
 
+##### Queen's University 
+  * [Queen's Women in Computing](https://www.facebook.com/QueensWIC/)
+    QWIC is a student-run initiative that supports women and underrepresented minorities 
+    in computer science through technical and career workshops, an
+    alumni-undergraduate mentorship program, networking events with prominent companies, 
+    and more!
+      * [Facebook](https://www.facebook.com/QueensWIC)
+
 ##### Western University
   * [WiTS](http://wits.csd.uwo.ca/)
     At WiTS, we believe that encouraging women to pursue technological fields of
